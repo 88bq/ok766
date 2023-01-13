@@ -35,8 +35,8 @@ login_data = {
     'queryParams': '{}',
     'optIntoOneTap': 'false'
 }
-login_to_acc = r1.post(login_url, data=login_data, headers=login_headers)
-sis = login_to_acc.cookies['sessionid']
+#login_to_acc = r1.post(login_url, data=login_data, headers=login_headers)
+sis = "login_to_acc.cookies['sessionid']"
 #print(sis)
 
 username = 'p_cr_'
@@ -72,8 +72,8 @@ login_data = {
     'queryParams': '{}',
     'optIntoOneTap': 'false'
 }
-login_to_acc = r1.post(login_url, data=login_data, headers=login_headers)
-sis4 = login_to_acc.cookies['sessionid']
+#login_to_acc = r1.post(login_url, data=login_data, headers=login_headers)
+sis4 = '262417172%3AADIDXsVMqFbKsf%3A0%3AAYfR8rpgZeNnmv5s6sICnsyCKRqOXdzH5kpr8kCbSw'
 print(sis4)
 
 username = 'cv30.zp'
