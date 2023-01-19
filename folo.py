@@ -73,7 +73,7 @@ login_data = {
     'optIntoOneTap': 'false'
 }
 #login_to_acc = r1.post(login_url, data=login_data, headers=login_headers)
-sis4 = '491278312%3AXASOTdWEkwpxK5%3A20%3AAYeJMuGrfy-aIxWGn3AzsKdCiTRj9P-p6ZiqRNCGZg'
+sis4 = '491278312%3AxhllmCqQz6Mj1O%3A3%3AAYc1CB4c3Rnn1oN29jtb755577465_2ZJ4dTUClGxQ'
 print(sis4)
 
 username = 'cv30.zp'
@@ -270,7 +270,7 @@ while True:
         #r1.post(url, headers=headers3)
         r1.post(url, headers=headers4)
         f += 1
-        edit(f'''Follo = {f} 
+        edit(f'''Follo = {f}
 Unfollo => {unf}
 Cycle => {w}''', x)
 
@@ -281,7 +281,7 @@ Cycle => {w}''', x)
         #r1.post(url, headers=headers3)
         r1.post(url, headers=headers4)
         f += 1
-        edit(f'''Follo = {f} 
+        edit(f'''Follo = {f}
 Unfollo => {unf}
 Cycle => {w}''', x)
 
@@ -292,7 +292,7 @@ Cycle => {w}''', x)
         #r1.post(url, headers=headers3)
         r1.post(url, headers=headers4)
         f += 1
-        edit(f'''Follo = {f} 
+        edit(f'''Follo = {f}
 Unfollo => {unf}
 Cycle => {w}''', x)
 
@@ -303,7 +303,7 @@ Cycle => {w}''', x)
         #r1.post(url, headers=headers3)
         r1.post(url, headers=headers4)
         f += 1
-        edit(f'''Follo = {f} 
+        edit(f'''Follo = {f}
 Unfollo => {unf}
 Cycle => {w}''', x)
 
@@ -315,7 +315,7 @@ Cycle => {w}''', x)
         #r1.post(url, headers=headers3)
         r1.post(url, headers=headers4)
         f += 1
-        edit(f'''Follo = {f} 
+        edit(f'''Follo = {f}
 Unfollo => {unf}
 Cycle => {w}''', x)
         sleep(35)
@@ -326,7 +326,7 @@ Cycle => {w}''', x)
         #r1.post(url, headers=headers3)
         r1.post(url, headers=headers4)
         f += 1
-        edit(f'''Follo = {f} 
+        edit(f'''Follo = {f}
 Unfollo => {unf}
 Cycle => {w}''', x)
 
@@ -338,7 +338,7 @@ Cycle => {w}''', x)
         #r1.post(url, headers=headers3)
         r1.post(url, headers=headers4)
         f += 1
-        edit(f'''Follo = {f} 
+        edit(f'''Follo = {f}
 Unfollo => {unf}
 Cycle => {w}''', x)
 
@@ -350,7 +350,7 @@ Cycle => {w}''', x)
         #r1.post(url, headers=headers3)
         r1.post(url, headers=headers4)
         f += 1
-        edit(f'''Follo = {f} 
+        edit(f'''Follo = {f}
 Unfollo => {unf}
 Cycle => {w}''', x)
 
@@ -358,8 +358,8 @@ Cycle => {w}''', x)
     except:
         pass
     z = 0
-    while z < 3000:
-        edit(f'''Follo = {f} 
+    while z < 2000:
+        edit(f'''Follo = {f}
 Unfollo => {unf}
 Cycle => {w}
 Time => {z}''', x)
@@ -374,7 +374,7 @@ Time => {z}''', x)
         #r1.post(url, headers=headers3)
         r1.post(url, headers=headers4)
         unf += 1
-        edit(f'''Follo = {f} 
+        edit(f'''Follo = {f}
 Unfollo => {unf}
 Cycle => {w}''', x)
 
@@ -386,7 +386,7 @@ Cycle => {w}''', x)
         #r1.post(url, headers=headers3)
         r1.post(url, headers=headers4)
         unf += 1
-        edit(f'''Follo = {f} 
+        edit(f'''Follo = {f}
 Unfollo => {unf}
 Cycle => {w}''', x)
 
@@ -398,7 +398,7 @@ Cycle => {w}''', x)
         #r1.post(url, headers=headers3)
         r1.post(url, headers=headers4)
         unf += 1
-        edit(f'''Follo = {f} 
+        edit(f'''Follo = {f}
 Unfollo => {unf}
 Cycle => {w}''', x)
 
@@ -410,7 +410,7 @@ Cycle => {w}''', x)
         #r1.post(url, headers=headers3)
         r1.post(url, headers=headers4)
         unf += 1
-        edit(f'''Follo = {f} 
+        edit(f'''Follo = {f}
 Unfollo => {unf}
 Cycle => {w}''', x)
 
@@ -422,7 +422,7 @@ Cycle => {w}''', x)
         #r1.post(url, headers=headers3)
         r1.post(url, headers=headers4)
         unf += 1
-        edit(f'''Follo = {f} 
+        edit(f'''Follo = {f}
 Unfollo => {unf}
 Cycle => {w}''', x)
 
@@ -434,7 +434,7 @@ Cycle => {w}''', x)
         #r1.post(url, headers=headers3)
         r1.post(url, headers=headers4)
         unf += 1
-        edit(f'''Follo = {f} 
+        edit(f'''Follo = {f}
 Unfollo => {unf}
 Cycle => {w}''', x)
 
@@ -445,7 +445,7 @@ Cycle => {w}''', x)
         #r1.post(url, headers=headers3)
         r1.post(url, headers=headers4)
         unf += 1
-        edit(f'''Follo = {f} 
+        edit(f'''Follo = {f}
 Unfollo => {unf}
 Cycle => {w}''', x)
 
@@ -457,7 +457,7 @@ Cycle => {w}''', x)
         #r1.post(url, headers=headers3)
         r1.post(url, headers=headers4)
         unf += 1
-        edit(f'''Follo = {f} 
+        edit(f'''Follo = {f}
 Unfollo => {unf}
 Cycle => {w}''', x)
 
